@@ -10,6 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
+				"fileName": "khsitest.csv",
 				"container": "data2"
 			},
 			"columnDelimiter": ",",
