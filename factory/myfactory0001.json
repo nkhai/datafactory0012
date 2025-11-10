@@ -1,0 +1,9 @@
+{
+	"name": "myfactory0001",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c26f400a-697f-4914-be6d-55d8202250ca",
+		"tenantId": "0ae51e19-07c8-4e4b-bb6d-648ee58410f4"
+	}
+}
